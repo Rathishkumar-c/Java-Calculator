@@ -42,10 +42,10 @@ It supports basic arithmetic operations and runs in an interactive loop until th
 
 
 ## 🧠 Future Improvements
--Add support for floating-point numbers
--Improve input validation
--Add advanced operations (exponents, modulus, etc.)
--GUI version using Java Swing or JavaFX
+- Add support for floating-point numbers
+- Improve input validation
+- Add advanced operations (exponents, modulus, etc.)
+- GUI version using Java Swing or JavaFX
 
 ## 🤝 Contributing
 Pull requests are welcome. Feel free to fork this repo and suggest improvements!
