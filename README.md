@@ -24,14 +24,16 @@ It supports basic arithmetic operations and runs in an interactive loop until th
 
 1. Clone the repository or download the `.java` file:
    ```bash
-   git clone https://github.com/your-username/Java-Calculator.git
+   git clone https://github.com/Rathishkumar-c/Java-Calculator.git
 2. Navigate to the folder:
+   ```bash
    cd Java-Calculator
-3. Compile and run the program:
+4. Compile and run the program:
+   ```bash
    javac calci.java
    java calci
 
-### 📘 What I Learned
+## 📘 What I Learned
 
 - Java basic variables, loops, conditionals, input handling
 - Using Scanner class for input
@@ -39,19 +41,16 @@ It supports basic arithmetic operations and runs in an interactive loop until th
 - Looping user interactions
 
 
-### 🧠 Future Improvements
-Add support for floating-point numbers
+## 🧠 Future Improvements
+-Add support for floating-point numbers
+-Improve input validation
+-Add advanced operations (exponents, modulus, etc.)
+-GUI version using Java Swing or JavaFX
 
-Improve input validation
-
-Add advanced operations (exponents, modulus, etc.)
-
-GUI version using Java Swing or JavaFX
-
-### 🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome. Feel free to fork this repo and suggest improvements!
 
-### 📩 Feedback
+## 📩 Feedback
 If you have any suggestions or feedback, feel free to reach out or open an issue.
 
 > Small steps lead to big things. This is my first Java app, and I’m excited to keep building! 🚀
